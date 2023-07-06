@@ -13,7 +13,3 @@ Let's say we have 100 features in total. And we are subsampling 60 features for 
 ## Solution with Monte Carlo
 
 I used Monte Carlo simulation to estimate the probablities associated with n_estimators.
-
-## Central Limit Theorem
-
-You will notice that the average count of the times a feature is repeatedly selected follows the random distribution.
